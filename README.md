@@ -16,6 +16,9 @@ Team Technology:
 [TeamTechnology.md](https://github.com/JerratJester/Group-8/files/12849767/TeamTechnology.md)
 
 
+Project Plan: 
+
+
 Project Plan Video Presentation:
 
 
