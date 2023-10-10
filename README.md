@@ -7,7 +7,13 @@ Our website will allow users to browse our collection of books, add items to the
 We are excited to share our progress with you, and we hope that you will enjoy using our website to purchase books.
 
 Meet Our Team:(Markdown Resume):
+
 Jerrat Jester: [JerratResume.md](https://github.com/JerratJester/Group-8/files/12849787/JerratResume.md)
+
+Lukas Ehler:[Lukas Ehler.md](https://github.com/JerratJester/Group-8/files/12861721/Lukas.Ehler.md)
+
+Ojerhomu Erakpotobor:[Ojerhomu Erakpotobor.md](https://github.com/JerratJester/Group-8/files/12861724/Ojerhomu.Erakpotobor.md)
+
 
 Team Assignments:
 [TeamRoles.md](https://github.com/JerratJester/Group-8/files/12849763/TeamRoles.md)
@@ -20,6 +26,7 @@ Project Plan:
 
 
 Project Plan Video Presentation:
+
 
 
 
