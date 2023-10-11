@@ -34,7 +34,7 @@ Daniel Loyd:[DanielLoydResume.md](https://github.com/JerratJester/Group-8/blob/3
 
 ## Team Technology
 
-[TeamTechnology.md] (https://github.com/JerratJester/Group-8/blob/5e580bf8af71222401aeff55cec701867015c587/Resumes/TeamTechnology.md)
+[TeamTechnology.md](https://github.com/JerratJester/Group-8/blob/5e580bf8af71222401aeff55cec701867015c587/Resumes/TeamTechnology.md)
 
 
 ## Project Plan
