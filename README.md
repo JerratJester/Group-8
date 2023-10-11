@@ -13,7 +13,7 @@ Our website will allow users to:
 
 We are excited to share our progress with you, and we hope that you will enjoy using our website to purchase books!
 
-Meet Our Team:(Markdown Resume):
+### Meet Our Team: (Markdown Resume)
 
 Jerrat Jester: 
 [JerratResume (1).md](https://github.com/JerratJester/Group-8/files/12873784/JerratResume.1.md)
