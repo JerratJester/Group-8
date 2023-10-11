@@ -16,7 +16,7 @@ Kennesaw, GA| Phone: |E-Mail: lehler1@students.kennesaw.edu
 
     
 
-  ## WORK EXPERIENCE
+
 
   
 
