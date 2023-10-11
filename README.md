@@ -21,7 +21,7 @@ Jerrat Jester:
 
 Lukas Ehler:[Lukas Ehler.md](https://github.com/JerratJester/Group-8/files/12861721/Lukas.Ehler.md)
 
-Ojerhomu Erakpotobor:[Ojerhomu Erakpotobor.md](https://github.com/JerratJester/Group-8/files/12861724/Ojerhomu.Erakpotobor.md)
+Ojerhomu Erakpotobor:[Ojerhomu Erakpotobor.md]**(https://github.com/JerratJester/Group-8/files/12861724/Ojerhomu.Erakpotobor.md)**
 
 Daniel Loyd:[DanielLoydResume.md](https://github.com/JerratJester/Group-8/files/12862058/DanielLoydResume.md)
 
