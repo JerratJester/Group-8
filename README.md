@@ -30,7 +30,7 @@ Daniel Loyd:[DanielLoydResume.md](https://github.com/JerratJester/Group-8/blob/3
 
 ## Team Assignments
 
-[TeamRoles.md](https://github.com/JerratJester/Group-8/files/12849763/TeamRoles.md)
+[TeamRoles.md](https://github.com/JerratJester/Group-8/blob/ab85c020845855d30da903918a955178ed883bbb/Resumes/TeamRoles.md)
 
 ## Team Technology
 
