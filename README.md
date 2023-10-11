@@ -25,6 +25,7 @@ Ojerhomu Erakpotobor:[Ojerhomu Erakpotobor.md](https://github.com/JerratJester/G
 
 Daniel Loyd:[DanielLoydResume.md](https://github.com/JerratJester/Group-8/files/12862058/DanielLoydResume.md)
 
+https://github.com/JerratJester/Group-8/blob/473511824a4ddae47e68bd0009fdd4aa04312982/DanielLoydResume.md
 
 ## Team Assignments
 
