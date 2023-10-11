@@ -8,7 +8,7 @@ We are excited to share our progress with you, and we hope that you will enjoy u
 
 Meet Our Team:(Markdown Resume):
 
-Jerrat Jester: [JerratResume.md](https://github.com/JerratJester/Group-8/files/12849787/JerratResume.md)
+Jerrat Jester: [JerratResume.md](docs/project-plan/JerratResume.md)
 
 Lukas Ehler:[Lukas Ehler.md](https://github.com/JerratJester/Group-8/files/12861721/Lukas.Ehler.md)
 
