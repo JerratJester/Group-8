@@ -14,9 +14,6 @@
   
   * Skills: Microsoft Excel, PowerPoint, GitHub
 
-    
-
-  ## WORK EXPERIENCE
 
   
 
