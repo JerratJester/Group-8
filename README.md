@@ -26,17 +26,19 @@ Ojerhomu Erakpotobor:[Ojerhomu Erakpotobor.md](https://github.com/JerratJester/G
 Daniel Loyd:[DanielLoydResume.md](https://github.com/JerratJester/Group-8/files/12862058/DanielLoydResume.md)
 
 
-Team Assignments:
+##Team Assignments:
+
 [TeamRoles.md](https://github.com/JerratJester/Group-8/files/12849763/TeamRoles.md)
 
-Team Technology:
+##Team Technology:
+
 [TeamTechnology.md](https://github.com/JerratJester/Group-8/files/12849767/TeamTechnology.md)
 
 
-Project Plan: 
+##Project Plan: 
 
 
-Project Plan Video Presentation:
+##Project Plan Video Presentation:
 
 
 
