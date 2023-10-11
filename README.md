@@ -39,6 +39,7 @@ Daniel Loyd:[DanielLoydResume.md](https://github.com/JerratJester/Group-8/files/
 
 ## Project Plan
 
+https://adkisson-swe-f23.youtrack.cloud/gantt-charts/174-10
 
 ## Project Plan Video Presentation
 
