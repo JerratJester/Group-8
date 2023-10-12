@@ -1,6 +1,6 @@
-\## **A cozy bookstore with a wide selection of books for all ages and interests. Curl up with a good book in our comfortable seating area, or browse our shelves for the perfect gift.**
+\## **A cozy bookstore with a wide selection of books for all ages and interests. Find a good book to curl up with in our online store, or browse for the perfect gift.**
 
- ***\*Store Name:\**** Our Store 
+ ***\*Store Name:\**** Cozy Book Store 
 
 ***\*Products Sold:\**** Books 
 
