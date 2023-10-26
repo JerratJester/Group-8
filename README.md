@@ -49,6 +49,13 @@ https://github.com/JerratJester/Group-8/blob/63bb1f428b92d49c77865ff366040c024cb
 This document provides a brief overview of the requirements for a bookstore. The requirements are designed to ensure that the bookstore meets the needs of its customers and provides a positive shopping experience.
 
 
+### Requirements
 
 
+### Decision table 
 
+
+### Use Case Diagram 
+
+
+### Requirements Video Presentation
