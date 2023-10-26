@@ -50,8 +50,8 @@ This document provides a brief overview of the requirements for a bookstore. The
 
 
 ### Requirements
-[Version1.md]
-
+[Version1.md] (https://github.com/JerratJester/Group-8/tree/9bb5056c2421bc4b1354dd045b1ff2e07b14337c/Requirements)
+[Version2.md] (https://github.com/JerratJester/Group-8/tree/9bb5056c2421bc4b1354dd045b1ff2e07b14337c/Requirements)
 ### Decision table 
 
 
