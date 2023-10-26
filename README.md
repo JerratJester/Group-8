@@ -44,6 +44,11 @@ https://adkisson-swe-f23.youtrack.cloud/gantt-charts/174-10
 ## Project Plan Video Presentation
 https://github.com/JerratJester/Group-8/blob/63bb1f428b92d49c77865ff366040c024cbdbfdd/Project%20Plan%20Presentation.mp4
 
+## Bookstore Requirements
+
+This document provides a brief overview of the requirements for a bookstore. The requirements are designed to ensure that the bookstore meets the needs of its customers and provides a positive shopping experience.
+
+
 
 
 
