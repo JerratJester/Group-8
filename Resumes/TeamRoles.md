@@ -1,5 +1,5 @@
-***\*Jerrat:\**** writer and Git manager
+***Jerrat:*** writer and Git manager
 
-***\*Lukas:\**** Management, UI Design, Presentations 
+***Lukas:*** Management, UI Design, Presentations 
 
-***\*OJ, Daniel:\**** Primary coders
+***OJ, Daniel:*** Primary coders
