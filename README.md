@@ -17,7 +17,7 @@ We are excited to share our progress with you, and we hope that you will enjoy u
 
 Jerrat Jester: [JerratResume.md](Resumes/JerratResume(1).md)
 
-Lukas Ehler:[LukasEhler.md](Resumes/LucasEhler.md)
+Lukas Ehler:[LukasEhler.md](Resumes/LukasEhler.md)
 
 Ojerhomu Erakpotobor:[OjerhomuErakpotobor.md](Resumes/OjerhomuErakpotobor.md)
 
