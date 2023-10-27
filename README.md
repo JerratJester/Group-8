@@ -15,7 +15,7 @@ We are excited to share our progress with you, and we hope that you will enjoy u
 
 ### Meet Our Team: (Markdown Resume)
 
-Jerrat Jester: [JerratResume.md](Resumes/JerratResume.md)
+Jerrat Jester: [JerratResume.md](Resumes/JerratResume(1).md)
 
 Lukas Ehler:[LukasEhler.md](Resumes/LucasEhler.md)
 
