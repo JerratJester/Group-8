@@ -1,4 +1,4 @@
-***\*Daniel Loyd*\***
+***Daniel Loyd***
 
  Elberton, GA| E-Mail: dloyd7@students.kennesaw.edu
 
