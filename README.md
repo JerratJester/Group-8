@@ -59,3 +59,4 @@ This document provides a brief overview of the requirements for a bookstore. The
 [Use Case.md](https://github.com/JerratJester/Group-8/blob/59ee07158fa79cc95fe63b3610df63495b5144a0/Requirements/Use%20Case%20Diagram.png)
 
 ### Requirements Video Presentation
+[Requirements Presentation](https://github.com/JerratJester/Group-8/blob/4881d74387dadc7093bac061d972c9779c64f7c4/Requirements/RequirementsPresentations.mp4)
