@@ -15,13 +15,10 @@ We are excited to share our progress with you, and we hope that you will enjoy u
 
 ### Meet Our Team: (Markdown Resume)
 
-Jerrat Jester: 
-[JerratResume.md](https://github.com/JerratJester/Group-8/blob/c57241c10f7f7829a30f0a6eb58f6550ae5bdb78/Resumes/JerratResume%20(1).md)
-
-[JerratResume.md](Resumes/JerratResume (1).md)
-
+Jerrat Jester: [JerratResume.md](https://github.com/JerratJester/Group-8/blob/c57241c10f7f7829a30f0a6eb58f6550ae5bdb78/Resumes/JerratResume%20(1).md)
 
 Lukas Ehler:[Lukas Ehler.md](https://github.com/JerratJester/Group-8/blob/3a6dc711826dd5994a06558c98aa572a8ec10034/Resumes/Lukas%20Ehler.md)
+[Lukas Ehler.md](Lucas%20Ehler.md)
 
 Ojerhomu Erakpotobor:[Ojerhomu Erakpotobor.md](https://github.com/JerratJester/Group-8/blob/3a6dc711826dd5994a06558c98aa572a8ec10034/Resumes/Ojerhomu%20Erakpotobor.md)
 
