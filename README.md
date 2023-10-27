@@ -53,7 +53,7 @@ This document provides a brief overview of the requirements for a bookstore. The
 
 [Version2.md](https://github.com/JerratJester/Group-8/blob/2c14cb4124492cf7e57b5b65170f288dc8a6c3f4/Requirements/Version%202.md) 
 ### Decision table 
-[Descion Table.md(]https://github.com/JerratJester/Group-8/blob/d2ddc567fbd98d7f7f871b5dd43c9b4046ce99fd/Requirements/SWEprojectDecisionTable.md)
+[Descion Table.md](https://github.com/JerratJester/Group-8/blob/d2ddc567fbd98d7f7f871b5dd43c9b4046ce99fd/Requirements/SWEprojectDecisionTable.md)
 
 ### Use Case Diagram 
 [Use Case.md](https://github.com/JerratJester/Group-8/blob/cea32ece9fe17e4b8a79e790e99eec5322b86d7d/Requirements/Use%20Case%20Dia.png)
