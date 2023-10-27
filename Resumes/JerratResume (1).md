@@ -1,4 +1,4 @@
-***\*Jerrat Jester\****
+***Jerrat Jester***
 
  Marietta, GA| Phone: 678-749-6684|E-Mail: jjester7@students.kennesaw.edu
 
