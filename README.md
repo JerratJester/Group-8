@@ -19,7 +19,7 @@ Jerrat Jester: [JerratResume.md](https://github.com/JerratJester/Group-8/blob/c5
 
 Lukas Ehler:[Lukas Ehler.md](https://github.com/JerratJester/Group-8/blob/3a6dc711826dd5994a06558c98aa572a8ec10034/Resumes/Lukas%20Ehler.md)
 
-Test[Lukas Ehler.md](Lucas%20Ehler.md)
+Test[Lukas Ehler.md](Resumes/Lucas%20Ehler.md)
 
 Ojerhomu Erakpotobor:[Ojerhomu Erakpotobor.md](https://github.com/JerratJester/Group-8/blob/3a6dc711826dd5994a06558c98aa572a8ec10034/Resumes/Ojerhomu%20Erakpotobor.md)
 
