@@ -25,6 +25,8 @@ Ojerhomu Erakpotobor:[Ojerhomu Erakpotobor.md](https://github.com/JerratJester/G
 
 Daniel Loyd:[DanielLoydResume.md](https://github.com/JerratJester/Group-8/blob/392b94c4b9b32c12d533cc60a00945a6b711bd29/Resumes/DanielLoydResume.md)
 
+DL Test:[DanielLoydResume.md](Resumes/DanielLoydResume.md)
+
 
 
 
