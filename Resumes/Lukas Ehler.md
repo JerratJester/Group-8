@@ -1,4 +1,4 @@
-***\*Lukas Ehler\****
+***Lukas Ehler***
 
  Marietta, GA| Phone: |E-Mail: lehler1@students.kennesaw.edu
 
