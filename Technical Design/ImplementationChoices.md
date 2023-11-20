@@ -29,3 +29,18 @@
 **JavaFX Tutorials:**
  - [Intro to JavaFX (Playlist) - Professor Lupoli](https://www.youtube.com/playlist?list=PLUg55fjW433pDuFAblbe6oCLsmyu9r4_B)
  - [JavaFX GUI Full Course - BroCode](https://www.youtube.com/watch?v=9XJicRt_FaI&ab_channel=BroCode)
+
+
+# Data Storage Plan
+
+**Technology:**
+ - Format: JSON
+ - Database: MongoDB. (A NoSQL database that stores it's JSON files as Binary JSON files, AKA BSON)
+
+**Data Storage Process Basic Steps:**
+ 1. Create Java object
+ 2. Convert Java object into JSON object
+ 3. Save JSON object to MongoDB as a Document in a Collection
+
+
+[###Java Coding Style Guide](https://google.github.io/styleguide/javaguide.html)
