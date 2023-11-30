@@ -60,3 +60,21 @@ This document provides a brief overview of the requirements for a bookstore. The
 
 ### Requirements Video Presentation
 [Requirements Presentation](https://github.com/JerratJester/Group-8/blob/4881d74387dadc7093bac061d972c9779c64f7c4/Requirements/RequirementsPresentations.mp4)
+
+
+## Documentation
+
+### Description For User
+The Book Store Application allows users to search through the available inventory of books and purchase books. A new user can register on their own. Regular users who have an account with the application can log in and log out at will. Users who are logged in can search the inventory and add items to a shopping cart. Whenever the user would like to purchase, they can select from different shipping options and to buy of of the items in their cart.
+
+### Requirements
+Windows 10/11, IntelliJ IDEA (ultimate edition)
+
+### Replication
+- Have IntelliJ (ultimate edition) installed 
+- Have JavaFX Scene Builder installed
+- Have a Windows Gluon Plugin
+- Have SQL Studio Management Server 19
+
+### Concerns 
+Our group failed to find an efficient way to connect the database to the JavaFX code on any given machine. We also could not find an efficient way to implement pictures for books in the database.
